@@ -1,7 +1,7 @@
 
 
 ## Oi! Meu nome é Guilherme.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0kk4&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Dokka&layout=compact&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 
